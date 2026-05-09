@@ -1,0 +1,750 @@
+🤖 Bot running on Binance TESTNET — fake money, real prices
+
+⏱  21:33:09 — Checking BTC/USDT...
+   RSI: 46.5
+   Price: 78677.69
+
+⏱  21:34:09 — Checking BTC/USDT...
+   RSI: 50.9
+   Price: 78687.25
+
+⏱  21:35:13 — Checking BTC/USDT...
+   RSI: 53.0
+   Price: 78692.12
+
+⏱  21:36:15 — Checking BTC/USDT...
+   RSI: 45.2
+   Price: 78674.11
+
+⏱  21:37:16 — Checking BTC/USDT...
+   RSI: 39.8
+   Price: 78658.43
+
+⏱  21:38:17 — Checking BTC/USDT...
+   RSI: 32.0
+   Price: 78630.01
+
+⏱  21:39:19 — Checking BTC/USDT...
+   RSI: 29.7
+   Price: 78619.09
+
+⏱  21:40:20 — Checking BTC/USDT...
+   RSI: 36.3
+   Price: 78633.25
+
+⏱  21:41:22 — Checking BTC/USDT...
+   RSI: 34.5
+   Price: 78623.91
+
+⏱  21:42:24 — Checking BTC/USDT...
+   RSI: 34.5
+   Price: 78623.9
+
+⏱  21:43:26 — Checking BTC/USDT...
+   RSI: 34.5
+   Price: 78623.9
+nohup: ignoring input
+🤖 Bot running on Binance TESTNET — fake money, real prices
+
+⏱  21:43:31 — Checking BTC/USDT...
+   RSI: 34.5
+   Price: 78623.9
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:44:32 — Checking BTC/USDT...
+   RSI: 34.5
+   Price: 78623.89
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:45:36 — Checking BTC/USDT...
+   RSI: 33.3
+   Price: 78620.01
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:46:38 — Checking BTC/USDT...
+   RSI: 31.8
+   Price: 78615.01
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:47:39 — Checking BTC/USDT...
+   RSI: 40.7
+   Price: 78629.1
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:48:40 — Checking BTC/USDT...
+   RSI: 48.4
+   Price: 78647.09
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:49:43 — Checking BTC/USDT...
+   RSI: 44.3
+   Price: 78636.0
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:50:45 — Checking BTC/USDT...
+   RSI: 34.2
+   Price: 78600.0
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:51:49 — Checking BTC/USDT...
+   RSI: 35.4
+   Price: 78602.84
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:52:55 — Checking BTC/USDT...
+   RSI: 43.7
+   Price: 78623.09
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:53:57 — Checking BTC/USDT...
+   RSI: 50.6
+   Price: 78644.02
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:54:59 — Checking BTC/USDT...
+   RSI: 53.5
+   Price: 78653.5
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:56:00 — Checking BTC/USDT...
+   RSI: 55.9
+   Price: 78662.03
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:57:02 — Checking BTC/USDT...
+   RSI: 55.9
+   Price: 78662.04
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:58:04 — Checking BTC/USDT...
+   RSI: 55.9
+   Price: 78662.04
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:59:08 — Checking BTC/USDT...
+   RSI: 55.9
+   Price: 78662.03
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:00:10 — Checking BTC/USDT...
+   RSI: 55.9
+   Price: 78662.04
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:01:12 — Checking BTC/USDT...
+   RSI: 58.6
+   Price: 78673.45
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:02:13 — Checking BTC/USDT...
+   RSI: 59.1
+   Price: 78674.51
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:03:16 — Checking BTC/USDT...
+   RSI: 65.5
+   Price: 78696.88
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:04:19 — Checking BTC/USDT...
+   RSI: 66.8
+   Price: 78701.99
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:05:21 — Checking BTC/USDT...
+   RSI: 79.9
+   Price: 78779.75
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:06:22 — Checking BTC/USDT...
+   RSI: 74.6
+   Price: 78739.5
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:07:24 — Checking BTC/USDT...
+   RSI: 74.6
+   Price: 78739.58
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:08:26 — Checking BTC/USDT...
+   RSI: 73.7
+   Price: 78738.17
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:09:28 — Checking BTC/USDT...
+   RSI: 64.7
+   Price: 78729.65
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:10:29 — Checking BTC/USDT...
+   RSI: 61.9
+   Price: 78725.07
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:11:31 — Checking BTC/USDT...
+   RSI: 60.0
+   Price: 78720.0
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:12:32 — Checking BTC/USDT...
+   RSI: 63.0
+   Price: 78731.94
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:13:34 — Checking BTC/USDT...
+   RSI: 62.1
+   Price: 78728.07
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:14:35 — Checking BTC/USDT...
+   RSI: 59.0
+   Price: 78720.9
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:15:37 — Checking BTC/USDT...
+   RSI: 59.7
+   Price: 78723.2
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:16:38 — Checking BTC/USDT...
+   RSI: 59.7
+   Price: 78723.2
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:17:40 — Checking BTC/USDT...
+   RSI: 59.7
+   Price: 78723.21
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:18:42 — Checking BTC/USDT...
+   RSI: 54.6
+   Price: 78714.66
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:19:44 — Checking BTC/USDT...
+   RSI: 54.6
+   Price: 78714.66
+   Position: No position
+   No signal. Waiting...
+nohup: ignoring input
+🤖 Bot running on Binance TESTNET — fake money, real prices
+
+⏱  22:19:51 — Checking BTC/USDT...
+   RSI: 54.6
+   Price: 78714.66
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:20:52 — Checking BTC/USDT...
+   RSI: 58.2
+   Price: 78724.65
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:21:54 — Checking BTC/USDT...
+   RSI: 59.0
+   Price: 78726.82
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:22:57 — Checking BTC/USDT...
+   RSI: 50.5
+   Price: 78708.32
+   Position: No position
+   No signal. Waiting...
+nohup: ignoring input
+🤖 Bot running on Binance TESTNET — fake money, real prices
+
+⏱  22:47:05 — Checking BTC/USDT...
+   RSI: 44.6
+   Price: 79821.41
+   Position: No position
+   ⚠️  No open position to sell — skipping!
+
+⏱  22:48:06 — Checking BTC/USDT...
+   RSI: 40.5
+   Price: 79787.63
+   Position: No position
+   No signal. Waiting...
+nohup: ignoring input
+🤖 Bot running on Binance TESTNET — fake money, real prices
+
+⏱  22:48:45 — Checking BTC/USDT...
+   RSI: 36.5
+   Price: 79750.01
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:49:47 — Checking BTC/USDT...
+   RSI: 34.7
+   Price: 79731.96
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:50:48 — Checking BTC/USDT...
+   RSI: 34.4
+   Price: 79729.17
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:51:59 — Checking BTC/USDT...
+   RSI: 46.6
+   Price: 79799.16
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:53:17 — Checking BTC/USDT...
+   RSI: 55.3
+   Price: 79866.16
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:54:21 — Checking BTC/USDT...
+   RSI: 54.4
+   Price: 79856.91
+   Position: No position
+   No signal. Waiting...
+
+⏱  22:55:27 — Checking BTC/USDT...
+   RSI: 54.5
+   Price: 79860.03
+   Position: No position
+   No signal. Waiting...
+nohup: ignoring input
+🤖 Bot running on Binance TESTNET — fake money, real prices
+
+⏱  15:29:14 — Checking BTC/USDT...
+nohup: ignoring input
+🤖 Bot running on Binance TESTNET — fake money, real prices
+
+⏱  15:29:40 — Checking BTC/USDT...
+Traceback (most recent call last):
+  File "/home/mithun/trading-bot/main.py", line 49, in <module>
+    run_bot()
+  File "/home/mithun/trading-bot/main.py", line 16, in run_bot
+    df = get_candles(SYMBOL, TIMEFRAME)
+  File "/home/mithun/trading-bot/data_feed.py", line 18, in get_candles
+    response = requests.get(url, params=params)
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/requests/sessions.py", line 592, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/requests/sessions.py", line 706, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/requests/adapters.py", line 645, in send
+    resp = conn.urlopen(
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/urllib3/connection.py", line 759, in connect
+    self.sock = sock = self._new_conn()
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/urllib3/connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+KeyboardInterrupt
+nohup: ignoring input
+🤖 Bot running on Binance TESTNET — fake money, real prices
+
+⏱  15:31:01 — Checking BTC/USDT...
+   RSI: 63.9
+   Price: 79982.4
+   Position: No position
+   No signal. Waiting...
+
+⏱  15:36:06 — Checking BTC/USDT...
+   RSI: 63.9
+   Price: 79982.4
+   Position: No position
+   No signal. Waiting...
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/home/mithun/trading-bot/main.py", line 1, in <module>
+    import schedule, time
+ModuleNotFoundError: No module named 'schedule'
+nohup: ignoring input
+🤖 Bot running on Binance TESTNET — fake money, real prices
+
+⏱  21:10:05 — Checking BTC/USDT...
+   RSI: 53.8
+   Price: 79878.27
+   Position: No position
+   No signal. Waiting...
+nohup: ignoring input
+🤖 Bot running on Binance TESTNET — fake money, real prices
+
+⏱  21:10:39 — Checking BTC/USDT...
+   RSI: 56.2
+   Price: 79901.64
+   Position: No position
+   No signal. Waiting...
+nohup: ignoring input
+🤖 Bot running on Binance TESTNET — fake money, real prices
+
+⏱  21:11:38 — Checking BTC/USDT...
+
+⏱  21:11:40 — Checking BTC/USDT...
+   RSI: 62.3
+   Price: 79975.7
+   Position: No position
+   No signal. Waiting...
+   RSI: 62.3
+   Price: 79975.7
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:12:39 — Checking BTC/USDT...
+   RSI: 63.0
+   Price: 79991.86
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:12:45 — Checking BTC/USDT...
+   RSI: 63.0
+   Price: 79991.86
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:13:44 — Checking BTC/USDT...
+   RSI: 65.3
+   Price: 80020.04
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:13:47 — Checking BTC/USDT...
+   RSI: 65.3
+   Price: 80020.04
+   Position: No position
+   No signal. Waiting...
+nohup: ignoring input
+🤖 Bot running on Binance TESTNET — fake money, real prices
+
+⏱  21:13:51 — Checking BTC/USDT...
+   RSI: 65.3
+   Price: 80020.04
+   Position: No position
+   No signal. Waiting...
+nohup: ignoring input
+🤖 Bot running on Binance TESTNET — fake money, real prices
+
+⏱  21:14:36 — Checking BTC/USDT...
+   RSI: 60.3
+   Price: 79979.43
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:14:56 — Checking BTC/USDT...
+   RSI: 60.2
+   Price: 79978.11
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:15:36 — Checking BTC/USDT...
+   RSI: 59.6
+   Price: 79976.08
+   Position: No position
+   No signal. Waiting...
+
+⏱  21:15:58 — Checking BTC/USDT...
+                                                                                  nohup: ignoring input
+Traceback (most recent call last):
+  File "/home/mithun/trading-bot/main.py", line 1, in <module>
+    import schedule, time
+ModuleNotFoundError: No module named 'schedule'
+nohup: ignoring input
+🤖 Bot running on Binance TESTNET — fake money, real prices
+
+⏱  22:55:35 — Checking BTC/USDT...
+   RSI: 62.1
+   Price: 80796.04
+   Position: No position
+   No signal. Waiting...
+nohup: ignoring input
+🤖 Bot running on Binance TESTNET — fake money, real prices
+
+⏱  23:01:24 — Checking BTC/USDT...
+   RSI: 67.2
+   Price: 80850.24
+   Position: No position
+   No signal. Waiting...
+nohup: ignoring input
+🤖 Bot running on Binance TESTNET — fake money, real prices
+
+⏱  23:01:31 — Checking BTC/USDT...
+   RSI: 68.3
+   Price: 80860.0
+   Position: No position
+   No signal. Waiting...
+nohup: ignoring input
+🤖 Bot running on Binance TESTNET — fake money, real prices
+
+⏱  23:01:47 — Checking BTC/USDT...
+   RSI: 68.3
+   Price: 80860.0
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:02:24 — Checking BTC/USDT...
+   RSI: 69.5
+   Price: 80870.2
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:02:31 — Checking BTC/USDT...
+   RSI: 69.5
+   Price: 80870.21
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:02:47 — Checking BTC/USDT...
+   RSI: 65.4
+   Price: 80853.53
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:03:28 — Checking BTC/USDT...
+   RSI: 64.6
+   Price: 80850.23
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:03:32 — Checking BTC/USDT...
+   RSI: 63.3
+   Price: 80844.93
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:03:53 — Checking BTC/USDT...
+   RSI: 62.2
+   Price: 80840.01
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:04:30 — Checking BTC/USDT...
+   RSI: 65.2
+   Price: 80862.31
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:04:35 — Checking BTC/USDT...
+   RSI: 65.2
+   Price: 80862.32
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:05:01 — Checking BTC/USDT...
+   RSI: 65.2
+   Price: 80862.32
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:05:32 — Checking BTC/USDT...
+   RSI: 67.1
+   Price: 80877.24
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:05:38 — Checking BTC/USDT...
+   RSI: 67.1
+   Price: 80877.23
+   Position: No position
+   No signal. Waiting...
+nohup: ignoring input
+🤖 Bot running on Binance TESTNET — fake money, real prices
+
+⏱  23:05:45 — Checking BTC/USDT...
+   RSI: 67.1
+   Price: 80877.24
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:06:46 — Checking BTC/USDT...
+   RSI: 71.2
+   Price: 80913.81
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:07:50 — Checking BTC/USDT...
+   RSI: 71.5
+   Price: 80916.0
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:08:54 — Checking BTC/USDT...
+   RSI: 65.4
+   Price: 80890.57
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:09:57 — Checking BTC/USDT...
+   RSI: 67.1
+   Price: 80904.11
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:10:59 — Checking BTC/USDT...
+   RSI: 64.7
+   Price: 80895.19
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:12:03 — Checking BTC/USDT...
+   RSI: 60.9
+   Price: 80880.67
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:13:09 — Checking BTC/USDT...
+   RSI: 62.5
+   Price: 80890.01
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:14:21 — Checking BTC/USDT...
+   RSI: 56.4
+   Price: 80868.0
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:15:26 — Checking BTC/USDT...
+   RSI: 47.5
+   Price: 80825.93
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:16:31 — Checking BTC/USDT...
+   RSI: 47.6
+   Price: 80825.9
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:17:33 — Checking BTC/USDT...
+   RSI: 50.8
+   Price: 80841.4
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:18:34 — Checking BTC/USDT...
+   RSI: 47.3
+   Price: 80824.8
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:19:35 — Checking BTC/USDT...
+   RSI: 44.0
+   Price: 80808.33
+   Position: No position
+   ⚠️  No open position to sell — skipping!
+
+⏱  23:20:42 — Checking BTC/USDT...
+   RSI: 45.6
+   Price: 80811.2
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:21:44 — Checking BTC/USDT...
+   RSI: 45.6
+   Price: 80811.19
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:22:46 — Checking BTC/USDT...
+   RSI: 46.9
+   Price: 80815.56
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:23:47 — Checking BTC/USDT...
+   RSI: 45.1
+   Price: 80806.91
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:24:55 — Checking BTC/USDT...
+   RSI: 43.6
+   Price: 80800.1
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:26:01 — Checking BTC/USDT...
+   RSI: 37.5
+   Price: 80767.52
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:27:02 — Checking BTC/USDT...
+   RSI: 37.0
+   Price: 80764.92
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:28:03 — Checking BTC/USDT...
+   RSI: 34.4
+   Price: 80749.26
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:29:05 — Checking BTC/USDT...
+   RSI: 52.1
+   Price: 80823.93
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:30:08 — Checking BTC/USDT...
+   RSI: 53.1
+   Price: 80829.62
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:31:10 — Checking BTC/USDT...
+   RSI: 54.2
+   Price: 80836.09
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:32:11 — Checking BTC/USDT...
+   RSI: 58.9
+   Price: 80865.7
+   Position: No position
+✅ BUY  | Price: 80865.7 | SL: 79248.39 | TP: 84100.33
+✅ BUY executed — position opened

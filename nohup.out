@@ -1,0 +1,11 @@
+🤖 Bot running on Binance TESTNET — fake money, real prices
+
+⏱  21:10:15 — Checking BTC/USDT...
+   RSI: 53.8
+   Price: 79878.27
+   Position: No position
+   No signal. Waiting...
+Traceback (most recent call last):
+  File "/home/mithun/trading-bot/main.py", line 52, in <module>
+    time.sleep(1)
+KeyboardInterrupt

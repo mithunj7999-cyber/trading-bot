@@ -1,0 +1,211 @@
+nohup: ignoring input
+🤖 Bot running on Binance TESTNET — fake money, real prices
+
+⏱  23:08:42 — Checking BTC/USDT...
+   RSI: 65.4
+   Price: 80890.58
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:09:43 — Checking BTC/USDT...
+   RSI: 69.7
+   Price: 80913.8
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:10:44 — Checking BTC/USDT...
+   RSI: 64.7
+   Price: 80895.2
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:11:50 — Checking BTC/USDT...
+   RSI: 60.9
+   Price: 80880.66
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:12:54 — Checking BTC/USDT...
+   RSI: 62.5
+   Price: 80890.0
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:13:55 — Checking BTC/USDT...
+   RSI: 62.5
+   Price: 80890.01
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:14:58 — Checking BTC/USDT...
+   RSI: 49.3
+   Price: 80834.93
+   Position: No position
+   No signal. Waiting...
+nohup: ignoring input
+🤖 Bot running on Binance TESTNET — fake money, real prices
+
+⏱  23:15:48 — Checking BTC/USDT...
+   RSI: 46.8
+   Price: 80822.25
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:16:00 — Checking BTC/USDT...
+   RSI: 46.8
+   Price: 80822.26
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:16:49 — Checking BTC/USDT...
+   RSI: 50.2
+   Price: 80838.34
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:17:02 — Checking BTC/USDT...
+   RSI: 50.2
+   Price: 80838.33
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:17:55 — Checking BTC/USDT...
+   RSI: 50.6
+   Price: 80840.01
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:18:10 — Checking BTC/USDT...
+   RSI: 50.6
+   Price: 80840.01
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:18:59 — Checking BTC/USDT...
+   RSI: 46.8
+   Price: 80822.17
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:19:12 — Checking BTC/USDT...
+   RSI: 46.7
+   Price: 80822.17
+   Position: No position
+   ⚠️  No open position to sell — skipping!
+
+⏱  23:20:01 — Checking BTC/USDT...
+   RSI: 41.2
+   Price: 80792.79
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:20:13 — Checking BTC/USDT...
+   RSI: 43.4
+   Price: 80801.53
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:21:04 — Checking BTC/USDT...
+   RSI: 45.6
+   Price: 80811.19
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:21:17 — Checking BTC/USDT...
+   RSI: 45.6
+   Price: 80811.19
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:22:05 — Checking BTC/USDT...
+   RSI: 44.5
+   Price: 80805.51
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:22:20 — Checking BTC/USDT...
+   RSI: 44.5
+   Price: 80805.51
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:23:10 — Checking BTC/USDT...
+   RSI: 46.9
+   Price: 80815.55
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:23:23 — Checking BTC/USDT...
+   RSI: 46.9
+   Price: 80815.55
+   Position: No position
+   No signal. Waiting...
+
+⏱  23:24:11 — Checking BTC/USDT...
+
+⏱  23:24:25 — Checking BTC/USDT...
+Traceback (most recent call last):
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/urllib3/connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/urllib3/util/connection.py", line 60, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/usr/lib/python3.10/socket.py", line 955, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/urllib3/connection.py", line 759, in connect
+    self.sock = sock = self._new_conn()
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/urllib3/connection.py", line 211, in _new_conn
+    raise NameResolutionError(self.host, self, e) from e
+urllib3.exceptions.NameResolutionError: HTTPSConnection(host='testnet.binance.vision', port=443): Failed to resolve 'testnet.binance.vision' ([Errno -3] Temporary failure in name resolution)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/requests/adapters.py", line 645, in send
+    resp = conn.urlopen(
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/urllib3/util/retry.py", line 535, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='testnet.binance.vision', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=1m&limit=100 (Caused by NameResolutionError("HTTPSConnection(host='testnet.binance.vision', port=443): Failed to resolve 'testnet.binance.vision' ([Errno -3] Temporary failure in name resolution)"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/mithun/trading-bot/main.py", line 51, in <module>
+    schedule.run_pending()
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/schedule/__init__.py", line 854, in run_pending
+    default_scheduler.run_pending()
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/schedule/__init__.py", line 101, in run_pending
+    self._run_job(job)
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/schedule/__init__.py", line 173, in _run_job
+    ret = job.run()
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/schedule/__init__.py", line 691, in run
+    ret = self.job_func()
+  File "/home/mithun/trading-bot/main.py", line 16, in run_bot
+    df = get_candles(SYMBOL, TIMEFRAME)
+  File "/home/mithun/trading-bot/data_feed.py", line 18, in get_candles
+    response = requests.get(url, params=params)
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/requests/sessions.py", line 592, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/requests/sessions.py", line 706, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/mithun/trading-bot/venv/lib/python3.10/site-packages/requests/adapters.py", line 678, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='testnet.binance.vision', port=443): Max retries exceeded with url: /api/v3/klines?symbol=BTCUSDT&interval=1m&limit=100 (Caused by NameResolutionError("HTTPSConnection(host='testnet.binance.vision', port=443): Failed to resolve 'testnet.binance.vision' ([Errno -3] Temporary failure in name resolution)"))

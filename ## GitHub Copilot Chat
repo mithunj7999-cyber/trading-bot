@@ -1,0 +1,182 @@
+## GitHub Copilot Chat
+
+- Extension: 0.46.2 (prod)
+- VS Code: 1.118.1 (034f571df509819cc10b0c8129f66ef77a542f0e)
+- OS: linux 6.6.87.2-microsoft-standard-WSL2 x64
+- Remote Name: wsl
+- Extension Kind: Workspace
+- GitHub Account: mithunj7999-cyber
+
+## Network
+
+User Settings:
+```json
+  "http.proxySupport": "off",
+  "http.fetchAdditionalSupport": false,
+  "http.systemCertificatesNode": true,
+  "github.copilot.advanced.debug.useElectronFetcher": true,
+  "github.copilot.advanced.debug.useNodeFetcher": false,
+  "github.copilot.advanced.debug.useNodeFetchFetcher": true
+```
+
+Connecting to https://api.github.com:
+- DNS ipv4 Lookup: 20.207.73.85 (44 ms)
+- DNS ipv6 Lookup: 64:ff9b::14cf:4955 (102 ms)
+- Proxy URL: None (23 ms)
+- Electron fetch: Unavailable
+- Node.js https: Error (337 ms): AggregateError: 
+	at internalConnectMultiple (node:net:1134:18)
+	at internalConnectMultiple (node:net:1210:5)
+	at Timeout.internalConnectMultipleTimeout (node:net:1742:5)
+	at listOnTimeout (node:internal/timers:587:11)
+	at process.processTimers (node:internal/timers:521:7)
+  Error: connect ETIMEDOUT 20.207.73.85:443
+  	at createConnectionError (node:net:1678:14)
+  	at Timeout.internalConnectMultipleTimeout (node:net:1737:38)
+  	at listOnTimeout (node:internal/timers:587:11)
+  	at process.processTimers (node:internal/timers:521:7)
+  Error: connect ENETUNREACH 64:ff9b::14cf:4955:443 - Local (:::0)
+  	at internalConnectMultiple (node:net:1206:16)
+  	at Timeout.internalConnectMultipleTimeout (node:net:1742:5)
+  	at listOnTimeout (node:internal/timers:587:11)
+  	at process.processTimers (node:internal/timers:521:7)
+- Node.js fetch (configured): Error (313 ms): TypeError: fetch failed
+	at node:internal/deps/undici/undici:14902:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async t._fetch (/home/mithun/.vscode-server/bin/034f571df509819cc10b0c8129f66ef77a542f0e/extensions/copilot/dist/extension.js:5325:5229)
+	at async t.fetch (/home/mithun/.vscode-server/bin/034f571df509819cc10b0c8129f66ef77a542f0e/extensions/copilot/dist/extension.js:5325:4541)
+	at async u (/home/mithun/.vscode-server/bin/034f571df509819cc10b0c8129f66ef77a542f0e/extensions/copilot/dist/extension.js:5357:186)
+	at async Pg._executeContributedCommand (file:///home/mithun/.vscode-server/bin/034f571df509819cc10b0c8129f66ef77a542f0e/out/vs/workbench/api/node/extensionHostProcess.js:503:48675)
+  AggregateError: 
+  	at internalConnectMultiple (node:net:1134:18)
+  	at internalConnectMultiple (node:net:1210:5)
+  	at Timeout.internalConnectMultipleTimeout (node:net:1742:5)
+  	at listOnTimeout (node:internal/timers:587:11)
+  	at process.processTimers (node:internal/timers:521:7)
+    Error: connect ETIMEDOUT 20.207.73.85:443
+    	at createConnectionError (node:net:1678:14)
+    	at Timeout.internalConnectMultipleTimeout (node:net:1737:38)
+    	at listOnTimeout (node:internal/timers:587:11)
+    	at process.processTimers (node:internal/timers:521:7)
+    Error: connect ENETUNREACH 64:ff9b::14cf:4955:443 - Local (:::0)
+    	at internalConnectMultiple (node:net:1206:16)
+    	at Timeout.internalConnectMultipleTimeout (node:net:1742:5)
+    	at listOnTimeout (node:internal/timers:587:11)
+    	at process.processTimers (node:internal/timers:521:7)
+
+Connecting to https://api.githubcopilot.com/_ping:
+- DNS ipv4 Lookup: 140.82.113.21 (1835 ms)
+- DNS ipv6 Lookup: 64:ff9b::8c52:7015 (9 ms)
+- Proxy URL: None (52 ms)
+- Electron fetch: Unavailable
+- Node.js https: Error (328 ms): AggregateError: 
+	at internalConnectMultiple (node:net:1134:18)
+	at internalConnectMultiple (node:net:1210:5)
+	at Timeout.internalConnectMultipleTimeout (node:net:1742:5)
+	at listOnTimeout (node:internal/timers:587:11)
+	at process.processTimers (node:internal/timers:521:7)
+  Error: connect ETIMEDOUT 140.82.113.21:443
+  	at createConnectionError (node:net:1678:14)
+  	at Timeout.internalConnectMultipleTimeout (node:net:1737:38)
+  	at listOnTimeout (node:internal/timers:587:11)
+  	at process.processTimers (node:internal/timers:521:7)
+  Error: connect ENETUNREACH 64:ff9b::8c52:7015:443 - Local (:::0)
+  	at internalConnectMultiple (node:net:1206:16)
+  	at Timeout.internalConnectMultipleTimeout (node:net:1742:5)
+  	at listOnTimeout (node:internal/timers:587:11)
+  	at process.processTimers (node:internal/timers:521:7)
+- Node.js fetch (configured): Error (266 ms): TypeError: fetch failed
+	at node:internal/deps/undici/undici:14902:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async t._fetch (/home/mithun/.vscode-server/bin/034f571df509819cc10b0c8129f66ef77a542f0e/extensions/copilot/dist/extension.js:5325:5229)
+	at async t.fetch (/home/mithun/.vscode-server/bin/034f571df509819cc10b0c8129f66ef77a542f0e/extensions/copilot/dist/extension.js:5325:4541)
+	at async u (/home/mithun/.vscode-server/bin/034f571df509819cc10b0c8129f66ef77a542f0e/extensions/copilot/dist/extension.js:5357:186)
+	at async Pg._executeContributedCommand (file:///home/mithun/.vscode-server/bin/034f571df509819cc10b0c8129f66ef77a542f0e/out/vs/workbench/api/node/extensionHostProcess.js:503:48675)
+  AggregateError: 
+  	at internalConnectMultiple (node:net:1134:18)
+  	at internalConnectMultiple (node:net:1210:5)
+  	at Timeout.internalConnectMultipleTimeout (node:net:1742:5)
+  	at listOnTimeout (node:internal/timers:587:11)
+  	at process.processTimers (node:internal/timers:521:7)
+    Error: connect ETIMEDOUT 140.82.113.21:443
+    	at createConnectionError (node:net:1678:14)
+    	at Timeout.internalConnectMultipleTimeout (node:net:1737:38)
+    	at listOnTimeout (node:internal/timers:587:11)
+    	at process.processTimers (node:internal/timers:521:7)
+    Error: connect ENETUNREACH 64:ff9b::8c52:7015:443 - Local (:::0)
+    	at internalConnectMultiple (node:net:1206:16)
+    	at Timeout.internalConnectMultipleTimeout (node:net:1742:5)
+    	at listOnTimeout (node:internal/timers:587:11)
+    	at process.processTimers (node:internal/timers:521:7)
+
+Connecting to https://copilot-proxy.githubusercontent.com/_ping:
+- DNS ipv4 Lookup: 20.199.39.224 (1692 ms)
+- DNS ipv6 Lookup: 64:ff9b::14fa:7740 (429 ms)
+- Proxy URL: None (66 ms)
+- Electron fetch: Unavailable
+- Node.js https: HTTP 200 (806 ms)
+- Node.js fetch (configured): HTTP 200 (1506 ms)
+
+Connecting to https://mobile.events.data.microsoft.com: HTTP 404 (1495 ms)
+Connecting to https://dc.services.visualstudio.com: Error (526 ms): TypeError: fetch failed
+	at node:internal/deps/undici/undici:14902:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+	at async t._fetch (/home/mithun/.vscode-server/bin/034f571df509819cc10b0c8129f66ef77a542f0e/extensions/copilot/dist/extension.js:5325:5229)
+	at async t.fetch (/home/mithun/.vscode-server/bin/034f571df509819cc10b0c8129f66ef77a542f0e/extensions/copilot/dist/extension.js:5325:4541)
+	at async u (/home/mithun/.vscode-server/bin/034f571df509819cc10b0c8129f66ef77a542f0e/extensions/copilot/dist/extension.js:5362:137)
+	at async Pg._executeContributedCommand (file:///home/mithun/.vscode-server/bin/034f571df509819cc10b0c8129f66ef77a542f0e/out/vs/workbench/api/node/extensionHostProcess.js:503:48675)
+  AggregateError: 
+  	at internalConnectMultiple (node:net:1134:18)
+  	at internalConnectMultiple (node:net:1210:5)
+  	at Timeout.internalConnectMultipleTimeout (node:net:1742:5)
+  	at listOnTimeout (node:internal/timers:587:11)
+  	at process.processTimers (node:internal/timers:521:7)
+    Error: connect ETIMEDOUT 20.213.196.214:443
+    	at createConnectionError (node:net:1678:14)
+    	at Timeout.internalConnectMultipleTimeout (node:net:1737:38)
+    	at listOnTimeout (node:internal/timers:587:11)
+    	at process.processTimers (node:internal/timers:521:7)
+    Error: connect ENETUNREACH 64:ff9b::1432:58ee:443 - Local (:::0)
+    	at internalConnectMultiple (node:net:1206:16)
+    	at Timeout.internalConnectMultipleTimeout (node:net:1742:5)
+    	at listOnTimeout (node:internal/timers:587:11)
+    	at process.processTimers (node:internal/timers:521:7)
+Connecting to https://copilot-telemetry.githubusercontent.com/_ping: Error (347 ms): AggregateError: 
+	at internalConnectMultiple (node:net:1134:18)
+	at internalConnectMultiple (node:net:1210:5)
+	at Timeout.internalConnectMultipleTimeout (node:net:1742:5)
+	at listOnTimeout (node:internal/timers:587:11)
+	at process.processTimers (node:internal/timers:521:7)
+  Error: connect ETIMEDOUT 140.82.113.21:443
+  	at createConnectionError (node:net:1678:14)
+  	at Timeout.internalConnectMultipleTimeout (node:net:1737:38)
+  	at listOnTimeout (node:internal/timers:587:11)
+  	at process.processTimers (node:internal/timers:521:7)
+  Error: connect ENETUNREACH 64:ff9b::8c52:7015:443 - Local (:::0)
+  	at internalConnectMultiple (node:net:1206:16)
+  	at Timeout.internalConnectMultipleTimeout (node:net:1742:5)
+  	at listOnTimeout (node:internal/timers:587:11)
+  	at process.processTimers (node:internal/timers:521:7)
+Connecting to https://copilot-telemetry.githubusercontent.com/_ping: Error (375 ms): AggregateError: 
+	at internalConnectMultiple (node:net:1134:18)
+	at internalConnectMultiple (node:net:1210:5)
+	at Timeout.internalConnectMultipleTimeout (node:net:1742:5)
+	at listOnTimeout (node:internal/timers:587:11)
+	at process.processTimers (node:internal/timers:521:7)
+  Error: connect ETIMEDOUT 140.82.113.21:443
+  	at createConnectionError (node:net:1678:14)
+  	at Timeout.internalConnectMultipleTimeout (node:net:1737:38)
+  	at listOnTimeout (node:internal/timers:587:11)
+  	at process.processTimers (node:internal/timers:521:7)
+  Error: connect ENETUNREACH 64:ff9b::8c52:7015:443 - Local (:::0)
+  	at internalConnectMultiple (node:net:1206:16)
+  	at Timeout.internalConnectMultipleTimeout (node:net:1742:5)
+  	at listOnTimeout (node:internal/timers:587:11)
+  	at process.processTimers (node:internal/timers:521:7)
+Connecting to https://default.exp-tas.com: HTTP 400 (5159 ms)
+
+Number of system certificates: 432
+
+## Documentation
+
+In corporate networks: [Troubleshooting firewall settings for GitHub Copilot](https://docs.github.com/en/copilot/troubleshooting-github-copilot/troubleshooting-firewall-settings-for-github-copilot).
