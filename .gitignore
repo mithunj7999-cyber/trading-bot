@@ -1,3 +1,6 @@
-# Ignore environment files
+venv/
+__pycache__/
+*.log
+nohup.out
 .env
-*.env
+trades.csv
