@@ -3,7 +3,7 @@ from datetime import datetime
 
 buy_price = None
 
-def log_trade(signal, price, sl, tp):
+def log_trade(signal, price, sl, tp, imbalance=None, fib_levels=None):
     global buy_price
     file = 'trades.csv'
     write_header = not os.path.exists(file)
@@ -17,9 +17,16 @@ def log_trade(signal, price, sl, tp):
     with open(file, 'a', newline='') as f:
         w = csv.writer(f)
         if write_header:
-            w.writerow(['Date','Signal','Price','StopLoss','TakeProfit','PnL%'])
-        w.writerow([datetime.now(), signal, price, sl, tp,
-                    f"{pnl}%" if pnl is not None else "-"])
+            w.writerow([
+                'Date', 'Signal', 'Price', 'StopLoss', 'TakeProfit',
+                'PnL%', 'Imbalance', 'FibLevels'
+            ])
+        w.writerow([
+            datetime.now(), signal, price, sl, tp,
+            f"{pnl}%" if pnl is not None else "-",
+            f"{imbalance:.2f}" if imbalance is not None else "-",
+            fib_levels if fib_levels is not None else "-"
+        ])
 
     if pnl is not None:
         emoji = "📈" if pnl > 0 else "📉"
