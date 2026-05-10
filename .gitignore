@@ -4,3 +4,7 @@ __pycache__/
 nohup.out
 .env
 trades.csv
+__pycache__/
+*.pyc
+log.txt
+nano.*.save
