@@ -8,3 +8,7 @@ __pycache__/
 *.pyc
 log.txt
 nano.*.save
+__pycache__/
+*.pyc
+log.txt
+nano.*.save
